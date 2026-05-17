@@ -1,0 +1,52 @@
+VN,Vietnam Airlines,4
+VJ,Vietjet Air,3
+QH,Bamboo Airways,4
+VU,Vietravel Airlines,3
+BL,Pacific Airlines,3
+SQ,Singapore Airlines,5
+TG,Thai Airways,4
+MH,Malaysia Airlines,4
+PR,Philippine Airlines,4
+CX,Cathay Pacific,5
+CI,China Airlines,4
+BR,EVA Air,5
+KE,Korean Air,5
+OZ,Asiana Airlines,5
+JL,Japan Airlines,5
+NH,ANA All Nippon Airways,5
+CZ,China Southern Airlines,4
+CA,Air China,3
+MU,China Eastern Airlines,3
+MF,XiamenAir,3
+TR,Scoot,3
+FD,Thai AirAsia,3
+AK,AirAsia,3
+SL,Thai Lion Air,3
+JT,Lion Air,3
+GA,Garuda Indonesia,5
+AI,Air India,3
+6E,IndiGo,3
+EK,Emirates,5
+QR,Qatar Airways,5
+EY,Etihad Airways,4
+TK,Turkish Airlines,4
+AF,Air France,4
+KL,KLM Royal Dutch Airlines,4
+LH,Lufthansa,4
+BA,British Airways,4
+SU,Aeroflot,4
+AY,Finnair,4
+AA,American Airlines,3
+DL,Delta Air Lines,3
+UA,United Airlines,3
+AC,Air Canada,4
+QF,Qantas,4
+JQ,Jetstar Airways,3
+NZ,Air New Zealand,4
+NX,Air Macau,3
+HX,Hong Kong Airlines,4
+UO,HK Express,3
+JX,STARLUX Airlines,4
+TW,T'way Air,3
+7C,Jeju Air,3
+LJ,Jin Air,3

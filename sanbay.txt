@@ -1,0 +1,101 @@
+SGN,Tan Son Nhat,TP.HCM,Viet Nam,1,10.8189,106.6519
+HAN,Noi Bai,Ha Noi,Viet Nam,1,21.2212,105.8072
+DAD,Da Nang,Da Nang,Viet Nam,1,16.0439,108.1996
+PQC,Phu Quoc,Phu Quoc,Viet Nam,1,10.2270,103.9931
+CXR,Cam Ranh,Nha Trang,Viet Nam,1,11.9982,109.2194
+VDO,Van Don,Quang Ninh,Viet Nam,1,21.1178,107.4144
+HPH,Cat Bi,Hai Phong,Viet Nam,1,20.8193,106.7260
+VII,Vinh,Vinh,Viet Nam,1,18.7363,105.6710
+HUI,Phu Bai,Hue,Viet Nam,1,16.4018,107.7020
+UIH,Phu Cat,Quy Nhon,Viet Nam,1,13.9554,109.0430
+TBB,Tuy Hoa,Tuy Hoa,Viet Nam,1,13.0483,109.3330
+DLI,Lien Khuong,Da Lat,Viet Nam,1,11.7513,108.3700
+BMV,Buon Ma Thuot,Buon Ma Thuot,Viet Nam,1,12.6681,108.1150
+PXU,Pleiku,Pleiku,Viet Nam,1,14.0028,108.0190
+VCA,Can Tho,Can Tho,Viet Nam,1,10.0847,105.7120
+VCS,Con Dao,Con Dao,Viet Nam,1,8.7324,106.6280
+VKG,Rach Gia,Rach Gia,Viet Nam,1,9.9501,105.1340
+CAH,Ca Mau,Ca Mau,Viet Nam,1,9.1765,105.1740
+DIN,Dien Bien Phu,Dien Bien,Viet Nam,1,21.3976,103.0070
+VDH,Dong Hoi,Dong Hoi,Viet Nam,1,17.5152,106.5900
+THD,Tho Xuan,Thanh Hoa,Viet Nam,1,19.9038,105.4670
+VCL,Chu Lai,Quang Nam,Viet Nam,1,15.2673,108.7060
+BKK,Suvarnabhumi,Bangkok,Thailand,2,13.6900,100.7501
+DMK,Don Mueang,Bangkok,Thailand,2,13.9126,100.6067
+HKT,Phuket,Phuket,Thailand,2,8.1132,98.3169
+CNX,Chiang Mai,Chiang Mai,Thailand,2,18.7668,98.9626
+SIN,Changi,Singapore,Singapore,2,1.3644,103.9915
+KUL,Kuala Lumpur,Kuala Lumpur,Malaysia,2,2.7456,101.7099
+PEN,Penang,Penang,Malaysia,2,5.2971,100.2769
+CGK,Soekarno-Hatta,Jakarta,Indonesia,2,-6.1256,106.6558
+DPS,Ngurah Rai,Bali,Indonesia,2,-8.7482,115.1670
+MNL,Ninoy Aquino,Manila,Philippines,2,14.5086,121.0194
+CEB,Mactan-Cebu,Cebu,Philippines,2,10.3075,123.9794
+NRT,Narita,Tokyo,Japan,2,35.7653,140.3856
+HND,Haneda,Tokyo,Japan,2,35.5494,139.7798
+KIX,Kansai,Osaka,Japan,2,34.4347,135.2441
+ICN,Incheon,Seoul,South Korea,2,37.4602,126.4407
+GMP,Gimpo,Seoul,South Korea,2,37.5583,126.7906
+CJU,Jeju,Jeju,South Korea,2,33.5113,126.4930
+HKG,Hong Kong,Hong Kong,China,2,22.3080,113.9185
+PEK,Beijing Capital,Beijing,China,2,40.0799,116.6031
+PVG,Pudong,Shanghai,China,2,31.1443,121.8083
+CAN,Baiyun,Guangzhou,China,2,28.1892,113.3000
+TPE,Taoyuan,Taipei,Taiwan,2,25.0797,121.2342
+DEL,Indira Gandhi,New Delhi,India,2,28.5562,77.1000
+BOM,Chhatrapati Shivaji,Mumbai,India,2,19.0896,72.8656
+DXB,Dubai,Dubai,UAE,2,25.2532,55.3657
+AUH,Zayed,Abu Dhabi,UAE,2,24.4330,54.6511
+DOH,Hamad,Doha,Qatar,2,25.2731,51.6081
+LHR,Heathrow,London,UK,3,51.4700,-0.4543
+CDG,Charles de Gaulle,Paris,France,3,49.0097,2.5479
+FRA,Frankfurt,Frankfurt,Germany,3,50.0379,8.5622
+AMS,Schiphol,Amsterdam,Netherlands,3,52.3105,4.7683
+MAD,Adolfo Suarez,Madrid,Spain,3,40.4983,-3.5676
+JFK,John F. Kennedy,New York,USA,4,40.6413,-73.7781
+LAX,Los Angeles,Los Angeles,USA,4,33.9416,-118.4085
+SFO,San Francisco,San Francisco,USA,4,37.6213,-122.3790
+ORD,O'Hare,Chicago,USA,4,41.9742,-87.9073
+YVR,Vancouver,Vancouver,Canada,4,49.1967,-123.1815
+SYD,Kingsford Smith,Sydney,Australia,3,-33.9399,151.1753
+MEL,Tullamarine,Melbourne,Australia,3,-37.6690,144.8410
+BNE,Brisbane,Brisbane,Australia,3,-27.3842,153.1175
+AKL,Auckland,Auckland,New Zealand,3,-37.0082,174.7915
+MUC,Munich,Munich,Germany,3,48.3537,11.7861
+FCO,Leonardo da Vinci,Rome,Italy,3,41.8003,12.2389
+MXP,Malpensa,Milan,Italy,3,45.6301,8.7231
+ZRH,Zurich,Zurich,Switzerland,3,47.4582,8.5555
+VIE,Vienna,Vienna,Austria,3,48.1103,16.5697
+CPH,Copenhagen,Copenhagen,Denmark,3,55.6180,12.6560
+ARN,Arlanda,Stockholm,Sweden,3,59.6519,17.9186
+OSL,Gardermoen,Oslo,Norway,3,60.1976,11.1004
+IST,Istanbul,Istanbul,Turkey,3,41.2753,28.7520
+SVO,Sheremetyevo,Moscow,Russia,3,55.9726,37.4146
+LIS,Humberto Delgado,Lisbon,Portugal,3,38.7742,-9.1342
+BCN,El Prat,Barcelona,Spain,3,41.2974,2.0833
+ATL,Hartsfield-Jackson,Atlanta,USA,4,33.6407,-84.4277
+DFW,Dallas Fort Worth,Dallas,USA,4,32.8998,-97.0403
+DEN,Denver,Denver,USA,4,39.8561,-104.6737
+SEA,Seattle-Tacoma,Seattle,USA,4,47.4502,-122.3088
+LAS,Harry Reid,Las Vegas,USA,4,36.0840,-115.1537
+MCO,Orlando,Orlando,USA,4,28.4312,-81.3081
+MIA,Miami,Miami,USA,4,25.7959,-80.2870
+EWR,Newark Liberty,Newark,USA,4,40.6895,-74.1745
+BOS,Logan,Boston,USA,4,42.3656,-71.0096
+IAD,Washington Dulles,Washington,USA,4,38.9531,-77.4565
+YYZ,Pearson,Toronto,Canada,4,43.6777,-79.6248
+YUL,Trudeau,Montreal,Canada,4,45.4706,-73.7408
+MEX,Benito Juarez,Mexico City,Mexico,4,19.4361,-99.0719
+GRU,Guarulhos,Sao Paulo,Brazil,4,-23.4356,-46.4731
+GIG,Galeao,Rio de Janeiro,Brazil,4,-22.8100,-43.2533
+EZE,Pistarini,Buenos Aires,Argentina,4,-34.8125,-58.5398
+SCL,Arturo Merino Benitez,Santiago,Chile,4,-33.3930,-70.7858
+BOG,El Dorado,Bogota,Colombia,4,4.7016,-74.1469
+JED,King Abdulaziz,Jeddah,Saudi Arabia,2,21.6796,39.1565
+RUH,King Khalid,Riyadh,Saudi Arabia,2,24.9576,46.6988
+CTS,New Chitose,Sapporo,Japan,2,42.7752,141.6923
+FUK,Fukuoka,Fukuoka,Japan,2,33.5859,130.4507
+PUS,Gimhae,Busan,South Korea,2,35.1795,128.9382
+JNB,O.R. Tambo,Johannesburg,South Africa,3,-26.1392,28.2460
+CPT,Cape Town,Cape Town,South Africa,3,-33.9715,18.6021
+CAI,Cairo,Cairo,Egypt,3,30.1219,31.4056
